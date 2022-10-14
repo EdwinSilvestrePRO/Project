@@ -1,5 +1,5 @@
-# Project C#:
+# Preguntas echas en C#
 
-Pruebas de automatisacion de repositorios remotos
-con los comando nuevos como: 
-git fetch, git remote show, etc...
+Si se compila oviamente se podra ver abrir 
+la aplicacion de consola para realizar un
+cuestionario.
