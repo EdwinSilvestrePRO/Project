@@ -15,6 +15,8 @@ namespace Codevelp
             int age = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("hello {0}, your age old is {1}. nice to meet you...", name, age);
             Console.ReadLine();
+            Console.WriteLine("Goodbye {0}", name);
+            Console.Read();
         }
     }
 }
